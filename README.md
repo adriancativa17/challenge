@@ -106,8 +106,3 @@ La aplicación expone métricas de rendimiento en `/actuator/metrics`. Las métr
 - Tiempo de procesamiento de órdenes
 - Conteo de órdenes procesadas
 - Tasa de errores
-
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
